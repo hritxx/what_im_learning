@@ -12,6 +12,7 @@ RUST:
 https://www.youtube.com/watch?v=joCFbTJt0o0&list=PPSV
 
 SQL Databases:
+https://www.youtube.com/watch?v=vL24eiwAG_g&list=PPSV
 
 REACT NATIVE:
 https://www.youtube.com/watch?v=NQi1CdGo6dU&list=PPSV
