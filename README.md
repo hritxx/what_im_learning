@@ -1,23 +1,31 @@
-# what_im_learning
+# What I'm Learning
 
-## PROJECTS:
+Welcome to my learning repository! 📚
 
-- [Video 1](https://youtu.be/zw8z_o_kDqc?feature=shared)
-- [Video 2](https://www.youtube.com/watch?v=ofHGE-85EIA&list=PPSV)
+In this repository, I list down the topics and content I consume over the internet on a day-to-day basis.
 
-## GOLANG:
+## Table of Contents
 
-- [Video 1](https://youtu.be/zw8z_o_kDqc?feature=shared)
-- [Video 2](https://youtu.be/un6ZyFkqFKo?feature=shared)
+- [Introduction](#introduction)
+- [Daily Logs](#daily-logs)
+- [How to Contribute](#how-to-contribute)
 
-## RUST:
+## Introduction
 
-- [Video](https://www.youtube.com/watch?v=joCFbTJt0o0&list=PPSV)
+This repository serves as a personal log of the videos and articles I consume daily. Each day's content is stored in a text file named with the date in the format `YY-MM-DD.txt`.
 
-## SQL Databases:
+## Daily Logs
 
-- [Video](https://www.youtube.com/watch?v=vL24eiwAG_g&list=PPSV)
+You can find the daily logs in the root directory of this repository. Each file is named according to the date it was created. For example:
 
-## REACT NATIVE:
+- `13-02-25.txt`
+- `13-02-26.txt`
 
-- [Video](https://www.youtube.com/watch?v=NQi1CdGo6dU&list=PPSV)
+## How to Contribute
+
+Feel free to explore the logs and suggest new content or topics for me to explore. You can contribute by:
+
+- Opening an issue
+- Submitting a pull request
+
+Happy learning! 🚀
